@@ -4,6 +4,8 @@ Keep the Rhythm is an Obsidian plugin that helps you maintain a consistent writi
 
 ![image](https://github.com/user-attachments/assets/8acd047d-68da-42d0-835d-6c7ab55b6f65)
 
+This is a fork of that plugin, which doesn't count deleted words aginst your streak
+
 ## Features
 
 - **Writing Stats**: Automatically tracks how many words/characters you write each day in Obsidian
@@ -21,14 +23,10 @@ Keep the Rhythm is an Obsidian plugin that helps you maintain a consistent writi
 
 ## Installation
 
-#### RECOMMENDED!
-
-Install through the Community Plugins section in Obsidian's settings
-
-#### MANUAL INSTALLATION
+#### MANUAL INSTALLATION (requied for this fork)
 
 Download the latest release files from this repository's Releases section
-Create a folder at /.obsidian/plugins/ named keep-the-rhythm
+Create a folder in /.obsidian/plugins/ named keep-the-rhythm
 Reload Obsidian
 Go to Settings > Community Plugins and enable "Keep the Rhythm"
 
