@@ -176,5 +176,5 @@ If you encounter any issues or have suggestions for improvements, please:
 
 #### Why not use Better Word Count?
 
-I built this plugin after finding that Better Word Count, while useful, had issues with Obsidian Sync - stats would get overwritten when switching between devices.
+I (the original creator, [Ebezen](https://github.com/benjaminezequiel)) built this plugin after finding that Better Word Count, while useful, had issues with Obsidian Sync - stats would get overwritten when switching between devices.
 Keep the Rhythm solves this by properly saving and merging data across devices, ensuring your writing progress is always accurately tracked!
